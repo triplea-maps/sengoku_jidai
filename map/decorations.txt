@@ -1,0 +1,6 @@
+Satsuma.png  (100,892)
+Osumi.png  (106,1033)
+Hizen.png  (418,643)
+Hyuga.png  (268,1005)
+Higo.png  (307,862)
+Bungo.png  (520,894)
